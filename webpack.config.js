@@ -8,7 +8,7 @@ module.exports = {
         publicPath: "demo",
         writeToDisk: true
     },
-    entry: '.src/js/app.js',
+    entry: './src/js/app.js',
     output: {
         filename: 'app.js',
         path: path.resolve(__dirname, 'demo/js'),
